@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+}
+.addicted {
+    width: 450px;
+    height: 350px;
+    background: rgb(220, 165, 174);
+    /* border: 5px solid rgb(108, 152, 217); */
+    /* margin-top: 50px ;
+    margin-left: 100px;
+    margin-right: 50px;
+    margin-bottom: 250px; */
+    /* margin: 50px 100px 50px 100px; */
+    margin: 0 auto;
+    /* margin: 50px auto; */
+    /* auto: left * right side e kaj kre... */
+}
