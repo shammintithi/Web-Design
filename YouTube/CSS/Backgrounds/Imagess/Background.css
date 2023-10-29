@@ -1,0 +1,14 @@
+/* body {
+    background-color: darkkhaki;
+}
+h2{
+    color: rgba(255, 255, 255, 0.853);
+} */
+body{
+    background-image: url("./Images/leemin.jpg");
+    /* background-repeat: repeat-x;  */
+    /* background-repeat: repeat-y; */
+    background-repeat: no-repeat;
+    background-position: top center;
+    /* background-position: top center, top right, top left; */
+}

@@ -1,0 +1,28 @@
+.lazy {
+    /* border-width: 5px; */
+    /* border-width: 5px 10px; */
+    /* border-width: 5px 10px 15px; */
+    border-width: 5px 10px 15px 20px;
+    /* border-style: solid; */
+    border-style: dotted solid dashed none ;
+    /* border-color: rgb(243, 174, 149); */
+    border-color: rgb(243, 174, 149) rgb(180, 54, 8) rgb(199, 16, 46);
+    /* border-radius: 10px; */
+    border-radius: 10px 15px 5px 5px 50px;
+}
+/* border-width, style, color, radious(side corner curve)*/
+/* .lazy {
+    border: 5px solid rgb(243, 174, 149) ;
+    border-radius: 10px;
+} */
+/* border width, style, color  */
+/* border-radius */
+ 
+/* border-style: solid, dotted, dashed, ridge, inset, none //////// 
+top, right, bottom, left///// like clock wise */
+
+/* border-width: top, right, bottom, left*/
+
+/* border-color: as like width and style. */
+
+/* border-radius: as like width style and color. */
