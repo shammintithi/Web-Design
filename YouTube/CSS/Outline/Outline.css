@@ -1,0 +1,15 @@
+p{  
+    margin:50px;
+    border: 5px solid rosybrown;
+    /* outline-width: 10px;
+    outline-style: solid;
+    outline-color:cadetblue; */
+    outline-offset: 15px;
+    /* outline: medium solid rgb(149, 149, 219); */
+    outline: 4px solid rgb(149, 149, 219);
+
+
+}
+/* outline-style: solid, dotted, dashed, double, ridge, inset, groove*/
+
+/* outline-width: thin, thick, medium  */
