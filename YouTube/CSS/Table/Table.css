@@ -1,0 +1,13 @@
+table, td, th{
+    border: 5px solid rgb(204, 100, 117);
+    text-align: left;
+}
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+th, td{
+    padding: 20px;
+}
+/* text-align: left, right, center  */
+/* border-collapse= single line */

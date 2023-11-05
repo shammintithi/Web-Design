@@ -1,0 +1,26 @@
+a{
+    color:rgb(3, 231, 239);
+    background: rgb(227, 97, 97);
+    font-family: tahoma;
+    font-size: 20px;
+    padding: 10px 15px 5px 18px;
+}
+a:link{
+    text-decoration: none;
+}
+a:hover{
+    background: rgb(3, 231, 239) ;
+    color: rgb(227, 97, 97)
+}
+a:active{
+    background: palegreen;
+    color: rgb(55, 92, 185)
+}
+/* a:visited{
+    background: rgb(144, 60, 218);
+    color:chartreuse
+} */
+/* text-decoration : none */
+/* a:link * a: visited kind of similar. */
+/* hover: mouse niye gele */
+/* active: click krar por jei color ashe */

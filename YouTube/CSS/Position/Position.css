@@ -1,0 +1,48 @@
+.box{
+    width: 600px;
+    height: 350px;
+    background: lightcoral;
+    position: relative;
+
+    /* position: absolute;
+    top: 0px;
+    right:0px;
+    left: 0px;
+    bottom: 0px;
+    margin: auto; */
+    /* top: 0px;
+    right:0px;
+    bottom: 0px;
+    margin: auto; */
+    /* top: 0px;
+    left:0px;
+    bottom: 0px;
+    margin: auto; */
+    /* bottom: 0px;
+    right: 0px;
+    left:0px;
+    margin: auto; */
+    /* top: 0px;
+    right: 0px;
+    left:0px;
+    margin: auto; */
+    /* bottom: 0px;
+    right: 0px; */
+    /* bottom:0px;
+    left:0px; */
+    /* top: 0px;
+    left: 0px; */
+    /* top:0px;
+    right:0px; */
+}
+.box2{
+    width: 180px;
+    height: 180px;
+    background: palegoldenrod;
+    position: absolute;
+    right:0;
+    bottom: 0;
+    left: 0;
+    top:0;
+    margin: auto;
+}

@@ -1,0 +1,11 @@
+.x{
+   border: 5px solid rgb(201, 225, 145);
+   width: 400px; 
+   margin: auto;
+}
+.y{
+   border: 5px solid rgb(22, 176, 97);
+   margin: auto;
+   max-width: 400px;
+}
+/* difference between max-width and are max-width is perfectly shown in any types of device but the width is not perfectly visible */
