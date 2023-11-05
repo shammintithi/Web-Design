@@ -1,0 +1,21 @@
+.box{
+    height: 200px;
+    width: 25%;
+    background: black;
+    float: left;
+
+    /* float: right, left */
+    /* width = 100 / number of box */
+}
+.box1{
+    background: plum;
+}
+.box2{
+    background: rgb(204, 107, 204);
+}
+.box3{
+    background: rgb(165, 35, 165);
+}
+.box4{
+    background: rgb(57, 12, 57);
+}
