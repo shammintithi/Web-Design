@@ -1,0 +1,17 @@
+/* p::first-letter{
+    color: rgb(220, 6, 6);
+    font-size: 100px;
+} */
+/* p::first-line{
+    color: indigo;
+    font-size: 100px;
+}  */
+h2::before{
+    content: 'Stupid ';
+}
+h2::after{
+    content: ' Idiot';
+}
+/* h2::before{
+    content: url();
+} */
