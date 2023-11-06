@@ -1,0 +1,12 @@
+/* div p{
+    background: khaki;
+} */
+/* div > p{
+    background: khaki;
+} */
+/* div + p{
+    background: khaki;
+} */
+div ~ p{
+    background: khaki;
+}

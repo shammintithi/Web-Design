@@ -1,0 +1,22 @@
+.social{
+    background: rgb(196, 175, 180);
+}
+ul{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+ul li{
+    display: inline-block;
+    padding: 10px 20px;
+}
+ul li a{
+    text-decoration: none;
+    color: crimson;
+}
+ul li:hover{
+    background: bisque;
+}
+ul li a:hover{
+    color:cadetblue;
+}
