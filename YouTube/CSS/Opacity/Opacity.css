@@ -1,0 +1,17 @@
+.bg{
+    width: 400px;
+    height: 350px;
+    background: url(./Image/Desk.jpg) no-repeat center / cover;
+    overflow: hidden;
+}
+.box p{
+    text-align: center;
+    background: blanchedalmond;
+    padding: 20px;
+    opacity: 0.7;
+    margin-top: 100px ;
+}
+/* img:hover{
+    opacity: 0.7;
+} */
+/* opacity 0 to 1 */
