@@ -4,14 +4,27 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Dropdowns Navigation Bar</title>
+    <link rel="stylesheet" href="Dropsowns Navigation Bar.css">
 </head>
 <body>
     <ul>
         <li><a href="https://www.google.com">Google</a></li>
-        <li><a href="https://www.facebook.com">Facebook</a></li>
+        <li class="dropdown">
+            <a class="dropbtn" href="https://www.facebook.com">Facebook</a>
+            <!-- <a class="dropbtn" href="javascript:void(0)">Facebook</a>  -->
+            <!-- javascript holo kono kisur link e jabe na -->
+            <div class="dropdown-content">
+                <a href="#">Account 1</a>
+                <a href="#">Account 2</a>
+                <a href="#">Account 3</a>
+                <a href="#">Add Account</a>
+            </div>
+        </li>
         <li><a href="https://www.instagram.com">Instagram</a></li>
         <li><a href="https://www.youtube.com">Youtube</a></li>
         <li><a href="https://www.messenger.com">Messenger</a></li>
     </ul>
 </body>
 </html>
+
+<!-- ul tag e normally margin and padding thake. -->

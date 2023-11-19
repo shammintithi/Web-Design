@@ -1,0 +1,43 @@
+ul{
+    margin : 0;
+    padding: 0;
+    background: royalblue;
+    overflow: hidden;
+}
+ul li{
+    float: left;
+    list-style-type: none;
+}
+ul li a{
+    color: bisque;
+    text-decoration: none;
+    text-transform: capitalize;
+    padding: 12px 10px;
+    display: inline-block;
+}
+ul li a:hover{
+    color: violet;
+}
+.dropdown-content{
+    background: rgb(91, 49, 70);
+    box-shadow: 0px 8px 16px rgba(255, 255, 255);
+    display: none;
+    position: absolute;
+    min-width: 150px;
+    min-height: 100px;
+    /* max-width: 300px; 
+       min-height: 200px;*/
+}
+.dropdown-content a{
+    display: block;
+    color: rgb(120, 172, 172);
+}
+.dropdown-content a:hover{
+    color: rgb(116, 30, 156);
+    background: rgb(34, 140, 178);
+}
+.dropdown:hover .dropdown-content{
+    display: block;
+}
+
+/* color and background color different */
