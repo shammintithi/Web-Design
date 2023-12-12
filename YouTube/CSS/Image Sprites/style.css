@@ -1,0 +1,27 @@
+.icons{
+    overflow: hidden;
+}
+.icons ul{
+    margin: 0;
+    padding: 0;
+}
+.icnos ul li {
+    list-style-type: none;
+    float: left;
+    margin-right: 10px;
+}
+.icnos ul li:last-child {
+    margin-right: 0px;
+}
+.icons ul li a{
+    background-image: url('./Sprites/Icons.png');
+    width: 42px;
+    height: 42px;
+    display: inline-block;
+    background-repeat: no-repeat;
+    border-radius: 50%;
+    background-position: 0 0;
+}
+.icons ul li:hover:nth-child(1){
+    background-position: 0 -42px;
+}
