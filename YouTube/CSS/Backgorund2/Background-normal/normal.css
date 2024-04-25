@@ -1,0 +1,18 @@
+/*body{
+    background-color: rgb(184, 71, 71);
+    background-image: url('../Images/leemin.jpg');
+    background-repeat: no-repeat;
+    background-position: top center;
+}
+/* background-repeat: 
+no-repeat == repeat krbe na
+repeat-x == right side e repeat krbe 
+repeat-y == niche niche repeat krbe. */
+
+/*background-position: top left, top center, top right */
+
+body{
+    background: #b7858d url('../images/leemin.jpg') no-repeat top left / 300px auto ;
+}
+
+/* background: background-color, image, repeat, position, /size */

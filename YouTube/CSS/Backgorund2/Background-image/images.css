@@ -1,0 +1,11 @@
+div{
+    width :760px;
+    height: 700px;
+    background-image: url('../images/leemin.jpg');
+    background-repeat: no-repeat;
+    background-size: 760px auto;
+    background-attachment: fixed;
+    background-position: top center;
+}
+
+/*background-attachment: fixed, scroll*/

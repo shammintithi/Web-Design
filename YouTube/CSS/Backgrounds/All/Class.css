@@ -1,4 +1,13 @@
 body{
-    background: #b7858d url("./images/leemin.jpg") no-repeat top left / 300px auto ;
-}  
+    background: #b7858d url('./images/leemin.jpg') no-repeat top left / 300px auto ;
+}
+
+body {
+
+}
 /* background color, image, repeat, position, size */
+
+/*repeat-x == right side e repeat krbe 
+repeat-y == niche niche repeat krbe. */
+
+/*background-position: top left, center, top right */
