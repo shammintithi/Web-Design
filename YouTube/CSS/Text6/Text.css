@@ -1,0 +1,31 @@
+p{
+    color:rgb(224, 0, 75);
+    text-align: justify;
+    text-transform: capitalize;
+    text-indent: 50px;
+    font-size: 20px;
+    line-height: 1.5;
+}
+a{
+    text-decoration: none;
+    color:cadetblue;
+}
+h2{
+    text-decoration: underline;
+    color:crimson;
+    letter-spacing: 7px;
+    word-spacing: 15px;
+    text-shadow: 3px 2px rgb(16, 158, 214);
+}
+/* text-align:left, right, justify, center */
+/* text-transform: lowercase, uppercase, capitalize */
+/* line height holo 2ta line ermajhe kototuku gap thakbe */
+
+/* text-decoration: none, overline, underline, line-through; */
+
+/* text_indent is make blank in the 1st line.. or we can say prothom line 1st word er age kototuku space thakbe  */
+/* line-height maintance according to font size. use: number value: 1,2...., or, pixel value */
+
+/* letter-spacing: 2ta letter majhe or ekta word each letter er majhe kototuku space or gap thakbe */
+/* word-spacing: 2ta word er majhe kototuku space or gap thakbe */
+
