@@ -1,0 +1,11 @@
+ul{
+  /*list-style-type: square;  */
+  list-style-image: url('./Image-Icon/star.png');
+  list-style-position: inside;
+  /*list-style: square inside url('./Image-Icon/right.png');*/
+}
+
+/* list-style-type: square, circle, upper-roman, lower-roman, upper-alpha, lower-alpha  */
+/*list-style-position: inside, outside*/
+
+/*list-style: type position url*/
