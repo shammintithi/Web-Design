@@ -1,0 +1,11 @@
+img{
+    width: 200px;
+    float: right;
+}
+p{
+    clear: left;
+}
+/* float: left, right, none */
+/* clear: left, right, both */
+
+/* float jekhane thakbe setai theke p tag er clear boshbe */

@@ -5,6 +5,7 @@ ul{
     margin: 0;
     padding: 0;
     text-align: center;
+    /*ul tag e normally margin padding thake e(gulo baad dite hoy).*/
 }
 ul li{
     display: inline-block;
@@ -16,6 +17,7 @@ ul li a{
 }
 ul li:hover{
     background: bisque;
+    /*color property diye change kra jabe na*/
 }
 ul li a:hover{
     color:cadetblue;

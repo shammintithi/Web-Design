@@ -1,0 +1,17 @@
+/*div p{
+    background: khaki;
+}*/
+/* div > p{
+    background: khaki;
+} */
+/* div + p{
+    background: khaki;
+} */
+div ~ p{
+    background: khaki;
+}
+
+/* 1. div p: div tag er bhitore p tag + span tag thakle ogular color change hbe.
+2. div > p: er kaj holo div tag er bhitore je p tag thakbe oitar khetrei color change hbe echara hbe na such as, span tag.
+3. div + p: div er bhitore kono p tag thakle kaj krbe na, div er bairer tag gula te kaj krbe.
+dib ~ p:  div er pore tag gulate like p tag e color change hbe.*/
